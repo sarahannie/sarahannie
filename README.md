@@ -38,6 +38,14 @@ I am a strong problem-solver with good communication and collaboration skills, a
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width=60 height=60/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width=60 height=60 />&nbsp;
 </div>
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahannie&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarahannie&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=49D0DD)](https://git.io/streak-stats)
+
+[![BenFaruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahannie&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sarahannie/sarahannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
